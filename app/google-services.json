@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "388234532686",
+    "project_id": "vigilant-mix-134623"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388234532686:android:b1ffc1ca921cab76",
+        "android_client_info": {
+          "package_name": "br.com.natanaelribeiro.www.mapsdirections"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388234532686-o4o490qlqk3alf4qq0k899cienpbq8uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.natanaelribeiro.www.mapsdirections",
+            "certificate_hash": "F3B8627D14E3F984BBA6393DF30D86781AE2A899"
+          }
+        },
+        {
+          "client_id": "388234532686-l9lbn8kr9vlrmbgmtpb5qen146mi6jf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBay0HSfYceXqKcH2E9lp0VroSBHZQhuUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
